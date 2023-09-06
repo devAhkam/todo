@@ -1,0 +1,20 @@
+.container{
+    padding-left: 45%;
+    background-color: aquamarine;
+    position: relative;
+    width: 100%;
+    margin: auto;
+    color: brown;
+}
+#addTaskButton{
+    font-size: 20px;
+    border: 2px solid;
+    border-radius: 17px;
+    background-color: blue;
+}
+#taskInput{
+    border: 2px solid;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: cornsilk;
+}
